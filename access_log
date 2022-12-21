@@ -1,0 +1,16 @@
+{"lvl":"error","finished":"2022-12-21T16:30:48.909+0300","msg":"error","request_id":2,"error_msg":"http inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:30:48.910+0300","msg":"access","request_id":2,"method":"GET","remote_addr":"127.0.0.1:56044","url":"/","host":"mail.ru","processing_time":"131.88643ms"}
+{"lvl":"info","finished":"2022-12-21T16:30:56.207+0300","msg":"access","request_id":3,"method":"GET","remote_addr":"127.0.0.1:34882","url":"/","host":"mail.ru","processing_time":"676ns"}
+{"lvl":"error","finished":"2022-12-21T16:31:27.877+0300","msg":"error","request_id":4,"error_msg":"https inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:31:27.878+0300","msg":"access","request_id":4,"method":"CONNECT","remote_addr":"127.0.0.1:56050","url":"","host":"www.wikipedia.org:443","processing_time":"321.019392ms"}
+{"lvl":"error","finished":"2022-12-21T16:31:33.440+0300","msg":"error","request_id":5,"error_msg":"http inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:31:33.440+0300","msg":"access","request_id":5,"method":"GET","remote_addr":"127.0.0.1:56054","url":"/","host":"mail.ru","processing_time":"339.823µs"}
+{"lvl":"error","finished":"2022-12-21T16:31:43.998+0300","msg":"error","request_id":6,"error_msg":"request dump error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:31:43.998+0300","msg":"access","request_id":6,"method":"GET","remote_addr":"127.0.0.1:34896","url":"/requests","host":"127.0.0.1:8000","processing_time":"518.022µs"}
+{"lvl":"error","finished":"2022-12-21T16:32:29.740+0300","msg":"error","request_id":7,"error_msg":"http inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:32:29.740+0300","msg":"access","request_id":7,"method":"GET","remote_addr":"127.0.0.1:56066","url":"/","host":"mail.ru","processing_time":"672.012µs"}
+{"lvl":"error","finished":"2022-12-21T16:33:23.107+0300","msg":"error","request_id":8,"error_msg":"http inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:33:23.107+0300","msg":"access","request_id":8,"method":"GET","remote_addr":"127.0.0.1:56070","url":"/","host":"mail.ru","processing_time":"621.916µs"}
+{"lvl":"error","finished":"2022-12-21T16:33:27.384+0300","msg":"error","request_id":9,"error_msg":"http inserting request to db error: inserting request error: ERROR: relation \"requests\" does not exist (SQLSTATE 42P01)"}
+{"lvl":"info","finished":"2022-12-21T16:33:27.385+0300","msg":"access","request_id":9,"method":"GET","remote_addr":"127.0.0.1:56072","url":"/","host":"mail.ru","processing_time":"921.711µs"}
+{"lvl":"info","finished":"2022-12-21T16:33:31.229+0300","msg":"access","request_id":10,"method":"GET","remote_addr":"127.0.0.1:34910","url":"/","host":"mail.ru","processing_time":"567ns"}
